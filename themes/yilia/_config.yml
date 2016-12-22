@@ -2,7 +2,7 @@
 
 menu:
   Home: /
-  NodeBootJS: /tags/随笔
+  NodeBootJS: /tags/NodeBootJS
 
 # SubNav
 subnav:
@@ -73,7 +73,7 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  友情链接1: http://localhost:4000/
+  布林科技(Demo 服务器赞助): http://www.boolin.cn/
   友情链接2: http://localhost:4000/
   友情链接3: http://localhost:4000/
   友情链接4: http://localhost:4000/
