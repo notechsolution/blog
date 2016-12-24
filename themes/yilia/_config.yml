@@ -7,11 +7,11 @@ menu:
 # SubNav
 subnav:
   github: "https://github.com/notechsolution"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  # weibo: "#"
+  # rss: "#"
+  # zhihu: "#"
   #douban: "#"
-  #mail: "mailto:litten225@qq.com"
+  mail: "mailto:notech@126.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -29,7 +29,7 @@ root:
 # 文章太长，截断按钮文字
 excerpt_link: more
 # 文章卡片右下角常驻链接，不需要请设置为false
-show_all_link: '展开全文'
+show_all_link: 'Show All'
 # 数学公式
 mathjax: true
 # 是否开启动画效果
@@ -41,7 +41,7 @@ open_in_new: false
 # 请在需要打赏的文章的md文件头部，设置属性reward: true
 
 # 打赏wording
-reward_wording: '谢谢你请我吃糖果'
+reward_wording: '谢谢你请我吃臭豆腐'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
 alipay: 
 # 微信二维码图片地址
@@ -49,7 +49,7 @@ weixin:
 
 # Miscellaneous
 google_analytics: ''
-favicon: /favicon.png
+favicon: /favicon.ico
 
 #你的头像url
 avatar: /assets/img/logo.png
@@ -67,17 +67,17 @@ duoshuo: false
 #smart_menu:
 #  friends: false
 smart_menu:
-  innerArchive: '所有文章'
-  tagcloud: '标签'
-  friends: '友链'
-  aboutme: '关于我'
+  innerArchive: 'All'
+  tagcloud: 'Tags'
+  friends: 'Links'
+  aboutme: 'Aboutme'
 
 friends:
-  布林科技(Demo 服务器赞助): http://www.boolin.cn/
-  友情链接2: http://localhost:4000/
-  友情链接3: http://localhost:4000/
-  友情链接4: http://localhost:4000/
-  友情链接5: http://localhost:4000/
-  友情链接6: http://localhost:4000/
+  Boolin(Demo Server Sponsor): http://www.boolin.cn/
+  Link2: http://localhost:4000/
+  Link3: http://localhost:4000/
+  Link4: http://localhost:4000/
+  Link5: http://localhost:4000/
+  Link6: http://localhost:4000/
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: Stay Foolist, Stay Hungry<br><br>Open Source Help Each Other<br>Thanks
