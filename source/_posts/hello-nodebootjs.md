@@ -1,6 +1,8 @@
 ---
 title: Hello NodeBootJS
-reward: true
+tags:
+	- NodeBootJS
+	
 ---
 
 > NodeBootJS is a boot application to faster node tech stack development
