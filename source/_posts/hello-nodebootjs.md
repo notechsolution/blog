@@ -8,7 +8,7 @@ tags:
 > NodeBootJS is a boot application to faster node tech stack development
 
 
-## [Online Demo](http://notech.leezai.com/ "Online Demo")
+### [Online Demo](http://notech.leezai.com/ "Online Demo")
 
 ## Build Setup
 
@@ -38,6 +38,6 @@ npm testy
 npm run prod, with smaller assets
 
 ```
-
+<!--more-->
 For detailed explanation on how things work, checkout the [Documentation](https://notechsolution.github.io/ "Documentation")
 

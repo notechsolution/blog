@@ -70,7 +70,7 @@ smart_menu:
   innerArchive: 'All'
   tagcloud: 'Tags'
   friends: 'Links'
-  aboutme: 'Aboutme'
+  aboutme: 'About'
 
 friends:
   Boolin(Demo Server Sponsor): http://www.boolin.cn/
@@ -80,4 +80,4 @@ friends:
   Link5: http://localhost:4000/
   Link6: http://localhost:4000/
 
-aboutme: Stay Foolist, Stay Hungry<br><br>Open Source Help Each Other<br>Thanks
+aboutme: Stay Foolist, Stay Hungry<br><br>Open Source Help Each Other<br><br>Thanks
